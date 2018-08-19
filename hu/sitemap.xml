@@ -5,6 +5,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/hu/courses/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/courses/" hreflang="en"/>
+    
+      <loc>https://martonbartok.github.io/hu/courses/</loc>
+      <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://martonbartok.github.io/hu/research/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="https://martonbartok.github.io/research/" hreflang="en"/>
     

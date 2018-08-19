@@ -5,11 +5,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://martonbartok.github.io/publications/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://martonbartok.github.io/hu/publications/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/courses/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/hu/courses/" hreflang="hu"/>
     
-      <loc>https://martonbartok.github.io/publications/</loc>
-      <lastmod>2018-08-18T00:00:00+00:00</lastmod>
+      <loc>https://martonbartok.github.io/courses/</loc>
+      <lastmod>2018-08-19T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -29,11 +29,31 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/publications/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/hu/publications/" hreflang="hu"/>
+    
+      <loc>https://martonbartok.github.io/publications/</loc>
+      <lastmod>2018-08-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://martonbartok.github.io/post/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://martonbartok.github.io/hu/post/" hreflang="hu"/>
     
       <loc>https://martonbartok.github.io/post/</loc>
       <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://martonbartok.github.io/teaching_resources/szkriptiras2018_19_osz_tematika/</loc>
     </url>
     
   
@@ -82,6 +102,15 @@
       <xhtml:link rel="alternate" href="https://martonbartok.github.io/hu/tags/" hreflang="hu"/>
     
       <loc>https://martonbartok.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://martonbartok.github.io/teaching_resources/</loc>
       <priority>0</priority>
     </url>
     

@@ -11,6 +11,18 @@
     <atom:link href="/hu/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Oktatás</title>
+      <link>https://martonbartok.github.io/hu/courses/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://martonbartok.github.io/hu/courses/</guid>
+      <description>&lt;p&gt;A &lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2019&lt;/sub&gt;-es őszi félévben az alábbi kurzust oktatom:&lt;/p&gt;
+
+&lt;p&gt;Beszédtudományi speciális kollégium (Praat szkriptrás). &lt;a href=&#34;../teaching_resources/szkriptiras2018_19_osz_tematika&#34;&gt;Tematika&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kutatás</title>
       <link>https://martonbartok.github.io/hu/research/</link>
       <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
