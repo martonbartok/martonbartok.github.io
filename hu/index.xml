@@ -118,5 +118,93 @@
 </description>
     </item>
     
+    <item>
+      <title>Beszédtudományi speciális kollégium - tematika</title>
+      <link>/hu/teaching_resources/szkriptiras2018_19_osz_tematika/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hu/teaching_resources/szkriptiras2018_19_osz_tematika/</guid>
+      <description>&lt;div id=&#34;beszedtudomanyi-specialis-kollegium&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Beszédtudományi speciális kollégium&lt;/h2&gt;
+&lt;p&gt;2018/2019 őszi félév&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;időpont: csütörtök 13.30-16.30 (páros heteken)&lt;/li&gt;
+&lt;li&gt;helyszín: ????&lt;/li&gt;
+&lt;li&gt;oktató: Bartók Márton&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table style=&#34;width:97%;&#34;&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;6%&#34; /&gt;
+&lt;col width=&#34;90%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Óra&lt;/th&gt;
+&lt;th&gt;Anyag&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;I.&lt;/td&gt;
+&lt;td&gt;Felhasználhatóság, lehetőségek, előnyök. A Praat funkciói. Az automatizálás alapjai. Objektumorientált szemlélet. Szkriptek szerkesztése, futtatása. A naplófájl felhasználása. Kommentelés. Online források. Funkciók, paraméterek. Változótípusok a PraatScriptben. Operátorok. A Praat szintaxisa.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;II.&lt;/td&gt;
+&lt;td&gt;For ciklus. If kondíció, logikai változók. Automatizált fájl- és objektumkezelés.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;III.&lt;/td&gt;
+&lt;td&gt;Rövid szkriptek írása, debuggolás, kommentelés a gyakorlatban. Online információkeresés, régi vs. új PraatScript szintaxis.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;IV.&lt;/td&gt;
+&lt;td&gt;TextGrid objektumok automatikus elemzése. Nyelvi elemek elemzése, sztring funciók.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;V.&lt;/td&gt;
+&lt;td&gt;Akusztikai elemzések objektumai: Harmonicity, Pitch, FormantGrid, stb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;VI.&lt;/td&gt;
+&lt;td&gt;Akusztikai elemzés annotátum alapján. Csoportos projektmunka&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;A kurzus látogatásköteles. Minden órán szükség lesz saját laptopra, előre telepített Praat-tal és szövegszerkesztővel (ajánlott: Sublime text 3 vagy Notepad++). A szoftvereket mindenki már az első óra előtt telepítse!&lt;/p&gt;
+&lt;div id=&#34;a-kurzus-elofeltetelei&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;A kurzus előfeltételei&lt;/h3&gt;
+&lt;p&gt;A Praat funkcióinak, felhasználói felületének alapszintű ismerete. Ezeknek az ismereteknek a hiánya nagyrészt pótolható az alábbi videók végignézésével, és a Praattal való rövid kísérletezéssel. Legalább alapszintű angol nyelvtudás.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;praat-gyorstalpalo&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Praat gyorstalpaló:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BHzkO1jaL7Y&#34; class=&#34;uri&#34;&gt;https://www.youtube.com/watch?v=BHzkO1jaL7Y&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-7mCKZ1islA&#34; class=&#34;uri&#34;&gt;https://www.youtube.com/watch?v=-7mCKZ1islA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YVJbi0WPqPw&#34; class=&#34;uri&#34;&gt;https://www.youtube.com/watch?v=YVJbi0WPqPw&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;szoftverek&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Szoftverek&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Praat: &lt;a href=&#34;http://www.fon.hum.uva.nl/praat/&#34; class=&#34;uri&#34;&gt;http://www.fon.hum.uva.nl/praat/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Szövegszerkesztő
+&lt;ul&gt;
+&lt;li&gt;Notepad++ &lt;a href=&#34;https://notepad-plus-plus.org/&#34; class=&#34;uri&#34;&gt;https://notepad-plus-plus.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sublime text: &lt;a href=&#34;https://www.sublimetext.com/3&#34; class=&#34;uri&#34;&gt;https://www.sublimetext.com/3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ajanlott-irodalom&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Ajánlott irodalom&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Praat Tutorial. &lt;a href=&#34;http://www.fon.hum.uva.nl/praat/manual/Scripting.html&#34; class=&#34;uri&#34;&gt;http://www.fon.hum.uva.nl/praat/manual/Scripting.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jörg Mayer. Praat Scripting Tutorial. &lt;a href=&#34;http://praatscripting.lingphon.net/&#34; class=&#34;uri&#34;&gt;http://praatscripting.lingphon.net/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Szekrényes István 2013. Számítógépes beszédfeldolgozás. Bevezetés a Praat program használatába. &lt;a href=&#34;http://lingua.arts.unideb.hu/compling/praat/praat-tutorial.html&#34; class=&#34;uri&#34;&gt;http://lingua.arts.unideb.hu/compling/praat/praat-tutorial.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

@@ -53,6 +53,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/teaching_resources/szkriptiras2018_19_osz_tematika/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/teaching_resources/szkriptiras2018_19_osz_tematika/" hreflang="hu"/>
+    
       <loc>/teaching_resources/szkriptiras2018_19_osz_tematika/</loc>
     </url>
     
@@ -109,6 +112,9 @@
     
     
     <url>
+    
+      <xhtml:link rel="alternate" href="/teaching_resources/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/teaching_resources/" hreflang="hu"/>
     
       <loc>/teaching_resources/</loc>
       <priority>0</priority>

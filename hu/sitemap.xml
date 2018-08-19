@@ -66,6 +66,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/hu/teaching_resources/szkriptiras2018_19_osz_tematika/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/teaching_resources/szkriptiras2018_19_osz_tematika/" hreflang="en"/>
+    
+      <loc>/hu/teaching_resources/szkriptiras2018_19_osz_tematika/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/hu/categories/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
     
@@ -94,6 +105,18 @@
       <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
     
       <loc>/hu/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/teaching_resources/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/teaching_resources/" hreflang="en"/>
+    
+      <loc>/hu/teaching_resources/</loc>
       <priority>0</priority>
     </url>
     
