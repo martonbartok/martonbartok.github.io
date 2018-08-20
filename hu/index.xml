@@ -18,7 +18,8 @@
       <guid>/hu/courses/</guid>
       <description>&lt;p&gt;A &lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2019&lt;/sub&gt;-es őszi félévben az alábbi kurzust oktatom:&lt;/p&gt;
 
-&lt;p&gt;Beszédtudományi speciális kollégium (Praat szkriptrás). &lt;a href=&#34;../teaching_resources/szkriptiras2018_19_osz_tematika&#34;&gt;Tematika&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Beszédtudományi speciális kollégium (Praat szkriptrás).
+&lt;a href = &#34;../../hu/teaching_resources/szkriptiras2018_19_osz_tematika&#34;&gt;Tematika&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -146,7 +147,7 @@
 &lt;tbody&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td&gt;I.&lt;/td&gt;
-&lt;td&gt;Felhasználhatóság, lehetőségek, előnyök. A Praat funkciói. Az automatizálás alapjai. Objektumorientált szemlélet. Szkriptek szerkesztése, futtatása. A naplófájl felhasználása. Kommentelés. Online források. Funkciók, paraméterek. Változótípusok a PraatScriptben. Operátorok. A Praat szintaxisa.&lt;/td&gt;
+&lt;td&gt;Felhasználhatóság, lehetőségek, előnyök. A Praat funkciói. Az automatizálás alapjai. Objektumorientált szemlélet. Szkriptek szerkesztése, futtatása. A naplófájl felhasználása. Kommentelés. Online források. Funkciók, paraméterek. Változótípusok a PraatScriptben. Operátorok. A Praat szintaxisa. &lt;a href=&#34;../../../slides/szkriptiras_slides/szkriptiras_slides01.html&#34;&gt;Diasor&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;II.&lt;/td&gt;
