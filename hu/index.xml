@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bartók Márton weboldala on Bartók Márton weboldala</title>
-    <link>/hu/</link>
+    <link>https://martonbartok.github.io/hu/</link>
     <description>Recent content in Bartók Márton weboldala on Bartók Márton weboldala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Oktatás</title>
-      <link>/hu/courses/</link>
+      <link>https://martonbartok.github.io/hu/courses/</link>
       <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/hu/courses/</guid>
+      <guid>https://martonbartok.github.io/hu/courses/</guid>
       <description>&lt;p&gt;A &lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2019&lt;/sub&gt;-es őszi félévben az alábbi kurzust oktatom:&lt;/p&gt;
 
 &lt;p&gt;Beszédtudományi speciális kollégium (Praat szkriptrás).
@@ -25,10 +25,10 @@
     
     <item>
       <title>Kutatás</title>
-      <link>/hu/research/</link>
+      <link>https://martonbartok.github.io/hu/research/</link>
       <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/hu/research/</guid>
+      <guid>https://martonbartok.github.io/hu/research/</guid>
       <description>&lt;div id=&#34;a-zongekepzes-vizsgalata-szamitogepes-jatekkal-elicitalt-emocionalis-megnyilatkozasokban&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;A zöngeképzés vizsgálata számítógépes játékkal elicitált emocionális megnyilatkozásokban&lt;/h2&gt;
 &lt;p&gt;A kísérlet célja annak a vizsgálata, hogy milyen reakciómintázatok jelennek meg a beszédképzésben, azon belül is a hangszalagok működésében különböző érzelmi hatást kiváltó ingerek megtapasztalása esetén. Az értékelési érzelemelméleti modellek szerint a megtapasztalt ingerek kognitív kiértékelése határozza meg a különböző viselkedésbeli és fiziológiai reakciómintázatokat, így a beszédben végbemenő változásokat is. Vizsgálatomban olyan érzelmi állapotok hatását vizsgálom, amelyek a két ilyen értékelési lépés dimenziója mentén különböznek: elemzem a várt, illetve váratlan ingerek, illetve az egyén céljaihoz hozzájáruló, vagy azt hátráltató események hatását, és az ezek közti eltéréseket. Ezeket az érzelmi állapotokat egy számítógépes játék különböző játékeseményei alatt vizsgálom, mégpedig a játék irányítására szolgáló hangutasítások elemzésével.&lt;/p&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>Publikációk</title>
-      <link>/hu/publications/</link>
+      <link>https://martonbartok.github.io/hu/publications/</link>
       <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/hu/publications/</guid>
+      <guid>https://martonbartok.github.io/hu/publications/</guid>
       <description>&lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;2018&lt;/td&gt;
@@ -121,10 +121,10 @@
     
     <item>
       <title>Beszédtudományi speciális kollégium - tematika</title>
-      <link>/hu/teaching_resources/szkriptiras2018_19_osz_tematika/</link>
+      <link>https://martonbartok.github.io/hu/teaching_resources/szkriptiras2018_19_osz_tematika/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/hu/teaching_resources/szkriptiras2018_19_osz_tematika/</guid>
+      <guid>https://martonbartok.github.io/hu/teaching_resources/szkriptiras2018_19_osz_tematika/</guid>
       <description>&lt;div id=&#34;beszedtudomanyi-specialis-kollegium&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Beszédtudományi speciális kollégium&lt;/h2&gt;
 &lt;p&gt;2018/2019 őszi félév&lt;/p&gt;
@@ -147,7 +147,7 @@
 &lt;tbody&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td&gt;I.&lt;/td&gt;
-&lt;td&gt;Felhasználhatóság, lehetőségek, előnyök. A Praat funkciói. Az automatizálás alapjai. Objektumorientált szemlélet. Szkriptek szerkesztése, futtatása. A naplófájl felhasználása. Kommentelés. Online források. Funkciók, paraméterek. Változótípusok a PraatScriptben. Operátorok. A Praat szintaxisa. &lt;a href=&#34;../../../slides/szkriptiras_slides/szkriptiras_slides01.html&#34;&gt;Diasor&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Felhasználhatóság, lehetőségek, előnyök. A Praat funkciói. Az automatizálás alapjai. Objektumorientált szemlélet. Szkriptek szerkesztése, futtatása. A naplófájl felhasználása. Kommentelés. Online források. Funkciók, paraméterek. Változótípusok a PraatScriptben. Operátorok. A Praat szintaxisa. &lt;a href=&#34;../../../slides/szkriptiras_slides/szkriptiras_slides01.html&#34; target = &#34;_blank&#34;&gt;Diasor&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td&gt;II.&lt;/td&gt;

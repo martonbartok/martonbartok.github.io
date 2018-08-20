@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Bartók Márton weboldala</title>
-    <link>/hu/home/</link>
+    <link>https://martonbartok.github.io/hu/home/</link>
     <description>Recent content in Homes on Bartók Márton weboldala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     <copyright>&amp;copy; 2018 Márton Bartók</copyright>
     <lastBuildDate>Sat, 18 Aug 2018 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/hu/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://martonbartok.github.io/hu/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/hu/home/about/</link>
+      <link>https://martonbartok.github.io/hu/home/about/</link>
       <pubDate>Sat, 18 Aug 2018 00:00:00 +0200</pubDate>
       
-      <guid>/hu/home/about/</guid>
+      <guid>https://martonbartok.github.io/hu/home/about/</guid>
       <description>Rólam Az Eötvös Loránd Tudományegyetem Alkalmazott Nyelvészet doktori programján veszek részt. Kutatásaimban főként az érzelmeknek és egyéb mentális állapotoknak a beszéd képzésére kifejtett hatását vizsgálom.</description>
     </item>
     
