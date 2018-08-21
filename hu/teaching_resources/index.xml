@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching_resources on Bartók Márton weboldala</title>
-    <link>https://martonbartok.github.io/hu/teaching_resources/</link>
+    <link>/hu/teaching_resources/</link>
     <description>Recent content in Teaching_resources on Bartók Márton weboldala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     <copyright>&amp;copy; 2018 Márton Bartók</copyright>
     
-	<atom:link href="https://martonbartok.github.io/hu/teaching_resources/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/hu/teaching_resources/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Beszédtudományi speciális kollégium - tematika</title>
-      <link>https://martonbartok.github.io/hu/teaching_resources/szkriptiras2018_19_osz_tematika/</link>
+      <link>/hu/teaching_resources/szkriptiras2018_19_osz_tematika/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://martonbartok.github.io/hu/teaching_resources/szkriptiras2018_19_osz_tematika/</guid>
+      <guid>/hu/teaching_resources/szkriptiras2018_19_osz_tematika/</guid>
       <description>Beszédtudományi speciális kollégium 2018/2019 őszi félév
  időpont: csütörtök 13.30-16.30 (páros heteken) helyszín: ???? oktató: Bartók Márton      Óra Anyag Diasor    I. Felhasználhatóság, lehetőségek, előnyök. A Praat funkciói. Az automatizálás alapjai. Objektumorientált szemlélet. Szkriptek szerkesztése, futtatása. A naplófájl felhasználása. Kommentelés. Online források. Funkciók, paraméterek. Változótípusok a PraatScriptben. Operátorok. A Praat szintaxisa. Diasor 1.  Diasor 2.   II. For ciklus. If kondíció, logikai változók.</description>
     </item>
