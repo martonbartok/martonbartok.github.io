@@ -93,7 +93,7 @@
       <h1 data-config-title><!-- populated from slide_config.json --></h1>
       <h2 data-config-subtitle><!-- populated from slide_config.json --></h2>
       <p data-config-presenter><!-- populated from slide_config.json --></p>
-            <p style="margin-top: 6px; margin-left: -2px;">Beszédtudományi speciális kollégium - Praat szkriptrás</p>
+            <p style="margin-top: 6px; margin-left: -2px;">Beszédtudományi speciális kollégium - Praat szkriptírás</p>
           </hgroup>
   </slide>
 
@@ -231,7 +231,20 @@ Remove</pre>
 <li>Másoknak is!!!</li>
 </ul></li>
 <li>Komment: olyan sor a kódban, melyet számítógép nem vesz figyelembe, hanem a szkript átláthatóságát javítja, értelmezését teszi lehetővé emberek számára.</li>
-<li><strong>Komment kezdése PraatScript-ben: #</strong>, (esetleg ;)
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Kommentelés</h2></hgroup><article  id="kommenteles-1">
+
+<pre class = 'prettyprint lang-praat'>#fájl beolvasása
+Read from file: &quot;sound001.wav&quot;
+#első csatorna kinyerése
+Extract one channel: 1
+#új, egycsatornás fájl mentése
+Save as wav file: &quot;sound001_audio.wav&quot;
+Remove</pre>
+
+<ul>
+<li><strong>Komment kezdése PraatScript-ben: #</strong>
 
 <ul>
 <li>A teljes sor (A következő Enter-ig komment lesz)</li>

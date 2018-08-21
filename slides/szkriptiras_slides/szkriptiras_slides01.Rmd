@@ -1,7 +1,7 @@
 ---
 title: "Az automatizálás alapjai"
 author: "Bartók Márton"
-date: "Beszédtudományi speciális kollégium - Praat szkriptrás"
+date: "Beszédtudományi speciális kollégium - Praat szkriptírás"
 output: ioslides_presentation
 ---
 
@@ -18,7 +18,6 @@ Save as wav file: "sound001_audio.wav"
 Remove
 ```
 
-
 * Egy szöveg
     + szövegfájlként menthető
     + bármilyen szövegszerkesztőben szerkeszthető.
@@ -31,7 +30,6 @@ Remove
 * Gyorsaság, munkafolyamat megkönnyítése.
 * Pontosság, humán hibafaktor kiküszöbölése.
 * Megismételhetőség.
-
 
 ## Mi automatizálható a beszédfeldolgozásban?
 
@@ -127,7 +125,20 @@ knitr::include_graphics("img/soundXtgrid_object_GUI_highlight.png")
     + Saját magunknak, ha később használjuk az adott szkriptet
     + Másoknak is!!!
 * Komment: olyan sor a kódban, melyet számítógép nem vesz figyelembe, hanem a szkript átláthatóságát javítja, értelmezését teszi lehetővé emberek számára.
-* **Komment kezdése PraatScript-ben: #**, (esetleg ;)
+
+##Kommentelés
+
+```{praat commenting, echo = TRUE}
+#fájl beolvasása
+Read from file: "sound001.wav"
+#első csatorna kinyerése
+Extract one channel: 1
+#új, egycsatornás fájl mentése
+Save as wav file: "sound001_audio.wav"
+Remove
+```
+
+* **Komment kezdése PraatScript-ben: #**
     + A teljes sor (A következő Enter-ig komment lesz)
 
 *Kommenteljük fel a szkriptünk minden vonalát!*
