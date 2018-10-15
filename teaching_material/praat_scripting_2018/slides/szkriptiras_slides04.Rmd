@@ -1,0 +1,156 @@
+---
+title: "For ciklus, if kondíció"
+author: "Bartók Márton"
+date: "Beszédtudományi speciális kollégium - Praat szkriptírás"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+##Mire jó a for ciklus?
+
+Csináljunk meg valamit valahányszor egymás után!
+*Irassuk ki a sajt szót 100szor!*
+
+##Mire jó a for ciklus?
+
+Csináljunk meg valamit valahányszor egymás után!
+*Irassuk ki a sajt szót 100szor!*
+
+```{praat sajt, echo = TRUE}
+for i from 1 to 100
+	appendInfoLine: "sajt"
+endfor
+```
+
+De mire jó a for ciklus a fonetikában?
+
+##Mire jó a for ciklus?
+Egy textgrid egymás utáni intervaljainak cimkéjét és az intervalok hosszát irassuk ki egy táblázatba!
+
+Mit csinálnánk ha egy intervallumról lenne szó?
+
+##Mire jó a for ciklus?
+Egy textgrid egymás utáni intervaljainak cimkéjét és az intervalok hosszát irassuk ki egy táblázatba!
+
+Mit csinálnánk ha egy intervallumról lenne szó?
+
+```{praat tableOneRow, echo = TRUE}
+label$ = Get label of interval: 1, 1
+startP = Get starting time: 1, 1
+endP = Get end time: 1, 1
+dur = endP – startP
+appendInfoLine: label$, tab$, dur
+```
+
+
+##A for ciklus felépítése
+
+```{praat structure2, echo = TRUE}
+for i from 1 to 100
+	appendInfoLine: "sajt"
+endfor
+```
+
+De mi az az i?
+
+##A for ciklus felépítése
+
+```{praat structure3, echo = TRUE}
+for i from 1 to 100
+	appendInfoLine: "sajt"
+endfor
+```
+
+De mi az az i?
+
+```{praat structure4, echo = TRUE}
+for i from 1 to 100
+	appendInfoLine: i, " sajt"
+endfor
+```
+
+##A for ciklus felépítése
+
+```{praat structure5, echo = TRUE}
+for i from n to x
+	Do something: i
+endfor
+```
+
+* Van egy változónk, `i`, aminek az értéke az első ciklusban `n`, és ciklusonként 1-el megnöveljük, amíg el nem éri az `x` értéket.
+* a `for`-ral kezdődő sor és az `endfor` közötti utasításokat minden ciklusban, az épp aktuális `i` érték használatával hajtjuk végre.
+
+##Rakjuk össze
+
+```{praat table2, echo = TRUE}
+for i from x to n
+	label$ = Get label of interval: 1, 1
+	startP = Get starting time: 1, 1
+	endP = Get end time: 1, 1
+	dur = endP – startP
+	appendInfoLine: label$, tab$, dur
+endfor
+```
+
+##Megoldás
+
+```{praat table3, echo = TRUE}
+for i from  1 to 10
+	label$ = Get label of interval: 1, i
+	startP = Get starting time: 1, i
+	endP = Get end time: 1, i
+	dur = endP – startP
+	appendInfoLine: label$, tab$, dur
+endfor
+```
+
+##If kondíció
+
+Ha-akkor logika
+Amikor teljesül a megadott feltétel, akkor végrehajtjuk a műveletet.
+	
+```{praat if1, echo = TRUE}
+x = 23
+  
+if ????
+	writeInfo: "X nagyobb, mint kettő"
+endif
+```
+
+##If kondíció
+
+Ha-akkor logika
+Amikor teljesül a megadott feltétel, akkor végrehajtjuk a műveletet.
+	
+```{praat if2, echo = TRUE}
+x = 23
+
+if x > 2
+	writeInfo: "X nagyobb, mint kettő"
+endif
+```
+
+##If és elsif
+
+```{praat if3, echo = TRUE}
+if x > 2		#ha-akkor
+	writeInfo: "X nagyobb, mint kettő"
+elsif x = 2		#másik ha-akkor
+	writeInfo: "X egyenlő kettővel."
+else			#minden más esetben	
+	writeInfo: "X kisebb, mint kettő."
+endif
+```
+
+##Kondíciók az automatizálásban
+
+* Az if kondíciót leggyakrabban for ciklusokon belül használjuk
+* Egyrészt sokszor meg akarunk csinálni valamit, másrészt ezt a tevékenységet feltételekhez akarjuk kötni.
+    + Felesleges munka megspórolása
+    + Válogatás
+* Pl. csak a szünetek átlagos időtartamára vagyunk kíváncsiak!
+  + Számoljuk ki a szünetek átlagos időtartamát a sound001 textgridben!
+
