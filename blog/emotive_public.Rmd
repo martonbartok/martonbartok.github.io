@@ -117,7 +117,7 @@ A zöngeképzés (*fonáció*) során tehát még nem dől el, hogy milyen besz�
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Aoa_N1vQS4M?start=47" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/Aoa_N1vQS4M?start=47" frameborder="0" allowfullscreen></iframe></div>
 
 </center>
 
