@@ -585,4 +585,6 @@ emotiveEGG %>% filter(phonLab == "M", nem == "férfi") %>%
 
 **Ha szívesen részt vennél te is az érzelemek és a beszéd összefüggéseit vizsgáló kísérletekben, írj bátran a bartokmarton@gmail.com e-mail címre.**
 
+Vissza a [főoldalra](martonbartok.github.io)!
+
 # Felhasznált irodalom
