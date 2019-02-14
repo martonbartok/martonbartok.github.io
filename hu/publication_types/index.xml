@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Bartók Márton weboldala</title>
-    <link>/hu/publication_types/</link>
+    <link>https://martonbartok.github.io/hu/publication_types/</link>
     <description>Recent content in Publication_types on Bartók Márton weboldala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     <copyright>&amp;copy; 2018 Márton Bartók</copyright>
     
-	<atom:link href="/hu/publication_types/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://martonbartok.github.io/hu/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

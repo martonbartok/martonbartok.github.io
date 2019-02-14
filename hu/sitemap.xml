@@ -5,10 +5,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/courses/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/courses/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/hu/courses/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/courses/" hreflang="en"/>
     
-      <loc>/hu/courses/</loc>
+      <loc>https://martonbartok.github.io/hu/courses/</loc>
       <lastmod>2018-08-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -17,10 +17,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/research/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/research/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/hu/research/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/research/" hreflang="en"/>
     
-      <loc>/hu/research/</loc>
+      <loc>https://martonbartok.github.io/hu/research/</loc>
       <lastmod>2018-08-18T00:00:00+00:00</lastmod>
     </url>
     
@@ -29,10 +29,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/publications/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/publications/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/hu/publications/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/publications/" hreflang="en"/>
     
-      <loc>/hu/publications/</loc>
+      <loc>https://martonbartok.github.io/hu/publications/</loc>
       <lastmod>2018-08-18T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,10 +41,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/post/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/post/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/hu/post/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/post/" hreflang="en"/>
     
-      <loc>/hu/post/</loc>
+      <loc>https://martonbartok.github.io/hu/post/</loc>
       <lastmod>2018-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -53,10 +53,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/hu/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/" hreflang="en"/>
     
-      <loc>/hu/</loc>
+      <loc>https://martonbartok.github.io/hu/</loc>
       <lastmod>2018-08-18T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -66,7 +66,7 @@
     
     <url>
     
-      <loc>/hu/teaching_resources/fonetika2019_tavasz_tematika/</loc>
+      <loc>https://martonbartok.github.io/hu/teaching_resources/fonetika2019_tavasz_tematika/</loc>
     </url>
     
   
@@ -74,7 +74,7 @@
     
     <url>
     
-      <loc>/hu/teaching_resources/szkriptiras2018_19_osz_tematika/</loc>
+      <loc>https://martonbartok.github.io/hu/teaching_resources/szkriptiras2018_19_osz_tematika/</loc>
     </url>
     
   
@@ -82,10 +82,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/categories/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/hu/categories/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/categories/" hreflang="en"/>
     
-      <loc>/hu/categories/</loc>
+      <loc>https://martonbartok.github.io/hu/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -94,10 +94,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/publication_types/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/hu/publication_types/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/publication_types/" hreflang="en"/>
     
-      <loc>/hu/publication_types/</loc>
+      <loc>https://martonbartok.github.io/hu/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -106,10 +106,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/hu/tags/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="https://martonbartok.github.io/tags/" hreflang="en"/>
     
-      <loc>/hu/tags/</loc>
+      <loc>https://martonbartok.github.io/hu/tags/</loc>
       <priority>0</priority>
     </url>
     
@@ -118,7 +118,7 @@
     
     <url>
     
-      <loc>/hu/teaching_resources/</loc>
+      <loc>https://martonbartok.github.io/hu/teaching_resources/</loc>
       <priority>0</priority>
     </url>
     
