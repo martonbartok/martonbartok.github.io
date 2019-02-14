@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Márton Bartók - personal webpage on Márton Bartók - personal webpage</title>
-    <link>https://martonbartok.github.io/</link>
+    <link>/</link>
     <description>Recent content in Márton Bartók - personal webpage on Márton Bartók - personal webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,11 +12,18 @@
     
     <item>
       <title>Courses</title>
-      <link>https://martonbartok.github.io/courses/</link>
+      <link>/courses/</link>
       <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://martonbartok.github.io/courses/</guid>
-      <description>&lt;p&gt;I am teaching the following course during the &lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2019&lt;/sub&gt; autumn semester:&lt;/p&gt;
+      <guid>/courses/</guid>
+      <description>
+
+&lt;p&gt;I am teaching the following course during the 2019 spring semester:&lt;/p&gt;
+
+&lt;p&gt;Phonetics
+&lt;a href = &#34;../../hu/teaching_resources/fonetika2019_tavasz_tematika&#34;&gt;Syllabus in Hungarian&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;previous-courses&#34;&gt;Previous courses&lt;/h2&gt;
 
 &lt;p&gt;Specialisation course on speech sciences (Praat scripting). &lt;a href=&#34;../../hu/teaching_resources/szkriptiras2018_19_osz_tematika&#34;&gt;Syllabus in Hungarian&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -24,10 +31,10 @@
     
     <item>
       <title>Kutatás</title>
-      <link>https://martonbartok.github.io/research/</link>
+      <link>/research/</link>
       <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://martonbartok.github.io/research/</guid>
+      <guid>/research/</guid>
       <description>&lt;div id=&#34;a-zongekepzes-vizsgalata-szamitogepes-jatekkal-elicitalt-emocionalis-megnyilatkozasokban&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;A zöngeképzés vizsgálata számítógépes játékkal elicitált emocionális megnyilatkozásokban&lt;/h2&gt;
 &lt;p&gt;A kísérlet célja annak a vizsgálata, hogy milyen reakciómintázatok jelennek meg a beszédképzésben, azon belül is a hangszalagok működésében különböző érzelmi hatást kiváltó ingerek megtapasztalása esetén. Az értékelési érzelemelméleti modellek szerint a megtapasztalt ingerek kognitív kiértékelése határozza meg a különböző viselkedésbeli és fiziológiai reakciómintázatokat, így a beszédben végbemenő változásokat is. Vizsgálatomban olyan érzelmi állapotok hatását vizsgálom, amelyek a két ilyen értékelési lépés dimenziója mentén különböznek: elemzem a várt, illetve váratlan ingerek, illetve az egyén céljaihoz hozzájáruló, vagy azt hátráltató események hatását, és az ezek közti eltéréseket. Ezeket az érzelmi állapotokat egy számítógépes játék különböző játékeseményei alatt vizsgálom, mégpedig a játék irányítására szolgáló hangutasítások elemzésével.&lt;/p&gt;
@@ -46,10 +53,10 @@
     
     <item>
       <title>Publications written in English</title>
-      <link>https://martonbartok.github.io/publications/</link>
+      <link>/publications/</link>
       <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://martonbartok.github.io/publications/</guid>
+      <guid>/publications/</guid>
       <description>&lt;p&gt;&lt;p&gt;For all my publications, please &lt;a href = &#34;../../hu/publications&#34;&gt;click here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;table&gt;
